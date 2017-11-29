@@ -4,22 +4,17 @@
 
 <p>
   Equipe:
+  Alvanir ​ ​Junior.
+  Carlos ​ ​Augusto.
+  Emmanuel ​ ​Diego.
+  Ademário ​ ​José.
+  Pedro ​ ​Gabriel.
 </P>
 
 
 
-UNIVERSIDADE ​ ​FEDERAL ​ ​RURAL ​ ​DE ​ ​PERNAMBUCO
-UNIDADE ​ ​ACADÊMICA ​ ​DE ​ ​GARANHUNS
-Avenida ​ ​Bom ​ ​Pastor, ​ ​s/n° ​ ​- ​ ​Boa ​ ​Vista ​ ​- ​ ​Garanhuns/PE
-Curso: ​ ​Bacharelado ​ ​em ​ ​Ciências ​ ​da ​ ​Computação
-Disciplina:Projeto ​ ​e ​ ​Análise ​ ​de ​ ​Sistema.
-Professor ​ ​: ​ ​Sérgio ​ ​Mendonça
-1. Equipe ​:
-Alvanir ​ ​Junior.
-Carlos ​ ​Augusto.
-Emmanuel ​ ​Diego.
-Ademário ​ ​José.
-Pedro ​ ​Gabriel.
+
+
 ​ ​​ ​​ ​​ ​​ ​2. ​ ​​ ​​Descrição ​ ​do ​ ​Projeto:
 Com ​ ​uma ​ ​análise ​ ​em ​ ​alguns ​ ​problemas ​ ​que ​ ​são ​ ​apresentados ​ ​na
 universidade, ​ ​foi ​ ​se ​ ​visto ​ ​a ​ ​necessidade ​ ​de ​ ​alguma ​ ​aplicação ​ ​de ​ ​reserva ​ ​de
