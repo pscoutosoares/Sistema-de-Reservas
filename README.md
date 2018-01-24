@@ -10,12 +10,6 @@
   Ademário ​ ​José.
   Pedro ​ ​Gabriel.
 </P>
-Inline-style: 
-<img src="DB/MER.jpg">
-
-
-
-
 
 ​ ​​ ​​ ​​ ​​ ​2. ​ ​​ ​​Descrição ​ ​do ​ ​Projeto:
 Com ​ ​uma ​ ​análise ​ ​em ​ ​alguns ​ ​problemas ​ ​que ​ ​são ​ ​apresentados ​ ​na
