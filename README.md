@@ -49,4 +49,4 @@ horários ​ ​livres ​ ​para ​ ​reservas ​ ​eventuais.
 <br>
 7. O ​ ​Sistema ​ ​deve ​ ​registrar,​ ​no​ ​momento​ ​do​ ​agendamento​ ​de ​ ​uma ​ ​reserva,​ ​a
 data,​ ​hora ​ ​e ​ ​a ​ ​pessoa ​ ​que ​ ​a ​ ​efetuou.
-<h1><a  src= "Documentos do projeto/Declaracao_de_originalidade.pdf"> Declaração de Orininalidade</a></h1>
+<h1><a href= "Documentos do projeto/Declaracao_de_originalidade.pdf"> Declaração de Originalidade</a></h1>
