@@ -10,7 +10,7 @@
   Ademário ​ ​José.
   Pedro ​ ​Gabriel.
 </P>
-![Screen Shot](/DB/MER.jpg)
+![Screen Shot](https://octodex.github.com/images/yaktocat.png)
 
 
 
