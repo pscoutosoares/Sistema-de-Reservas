@@ -59,6 +59,6 @@ data,​ ​hora ​ ​e ​ ​a ​ ​pessoa ​ ​que ​ ​a ​ ​efet
 <img src="DB/MER.jpg">
 <h2>Diagrama entidade relacionamento</h2>
 <img src="DB/MER.jpg">
-<h2><a href= "Documentos do projeto/Dicionário de Dados.pdf">Dicionário de dados</a></h2>
+<h2><a href= "Documentos do projeto/Dicion%C3%A1rio%20de%20Dados.pdf">Dicionário de dados</a></h2>
 <h2><a href= "Documentos do projeto/script_ddl.sql">Script de criação de tabelas do banco de dados</a></h2>
 <h1 href="Sistema/">Código fonte do projeto</h1>
