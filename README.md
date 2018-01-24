@@ -1,9 +1,8 @@
 <h1>Top Gerenciamentos </h1>
 
 <h2> Sistema de Reservas</h2>
-
+<h3>Equipe:</h3>
 <p>
-  Equipe:
   Alvanir ​ ​Junior.
   Carlos ​ ​Augusto.
   Emmanuel ​ ​Diego.
@@ -11,7 +10,7 @@
   Pedro ​ ​Gabriel.
 </P>
 
-​ ​​ ​​ ​​ ​​ ​2. ​ ​​ ​​Descrição ​ ​do ​ ​Projeto:
+<h2>​ ​​ ​​Descrição ​ ​do ​ ​Projeto:</h2>
 Com ​ ​uma ​ ​análise ​ ​em ​ ​alguns ​ ​problemas ​ ​que ​ ​são ​ ​apresentados ​ ​na
 universidade, ​ ​foi ​ ​se ​ ​visto ​ ​a ​ ​necessidade ​ ​de ​ ​alguma ​ ​aplicação ​ ​de ​ ​reserva ​ ​de
 equipamentos(Salas, ​ ​laboratórios, ​ ​auditórios, ​ ​projetores ​ ​e ​ ​entre ​ ​outros...) ​ ​mais
