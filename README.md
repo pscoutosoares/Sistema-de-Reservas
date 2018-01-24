@@ -1,13 +1,11 @@
-<h1>Top Gerenciamentos </h1>
-
-<h2> Sistema de Reservas</h2>
-<h3>Equipe:</h3>
+<h1> Sistema de Reservas</h1>
+<h2>Equipe:</h2>
 <p>
-  Alvanir ​ ​Junior.
-  Carlos ​ ​Augusto.
-  Emmanuel ​ ​Diego.
-  Ademário ​ ​José.
-  Pedro ​ ​Gabriel.
+  Alvanir ​ ​Junior.<br>
+  Carlos ​ ​Augusto.<br>
+  Emmanuel ​ ​Diego.<br>
+  Ademário ​ ​José.<br>
+  Pedro ​ ​Gabriel.<br>
 </P>
 
 <h2>​ ​​ ​​Descrição ​ ​do ​ ​Projeto:</h2>
