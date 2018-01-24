@@ -25,7 +25,7 @@ um ​ ​histórico ​ ​sobre ​ ​últimos ​ ​acesso ​ ​aos ​ �
 isso ​ ​apresentando ​ ​um ​ ​controle ​ ​ainda ​ ​maior ​ ​na ​ ​manutenção ​ ​dos ​ ​mesmo ​ ​e ​ ​uma
 relação ​ ​de ​ ​segura.
 <br>
-<h2>​. ​ ​Requisitos ​ ​do ​ ​Sistema:</h2>
+<h2>​ ​ ​Requisitos ​ ​do ​ ​Sistema:</h2>
 1. O ​ ​Sistema ​ ​deve ​ ​exibir​ ​as ​ ​agendas ​ ​das ​ ​salas ​ ​na ​ ​forma ​ ​de ​ ​quadros
 semanais,​ ​com ​ ​possibilidade ​ ​de ​ ​navegação​ ​por​ ​estes.
 <br>
@@ -49,4 +49,16 @@ horários ​ ​livres ​ ​para ​ ​reservas ​ ​eventuais.
 <br>
 7. O ​ ​Sistema ​ ​deve ​ ​registrar,​ ​no​ ​momento​ ​do​ ​agendamento​ ​de ​ ​uma ​ ​reserva,​ ​a
 data,​ ​hora ​ ​e ​ ​a ​ ​pessoa ​ ​que ​ ​a ​ ​efetuou.
-<h1><a href= "Documentos do projeto/Declaracao_de_originalidade.pdf"> Declaração de Originalidade</a></h1>
+<h1>Documentação</h1>
+<h2><a href= "Documentos do projeto/Declaracao_de_originalidade.pdf">Declaração de Originalidade</a></h2>
+<h2><a href= "Documentos do projeto/Documento-de-visao.pdf">Documento de visão</a></h2>
+<h2><a href= "Documentos do projeto/Manual do Usuário Final.pdf">Manual do Usuário</a></h2>
+
+<h1>Banco de dados</h1>
+<h2>Modelo entidade relacionamento</h2>
+<img src="DB/MER.jpg">
+<h2>Diagrama entidade relacionamento</h2>
+<img src="DB/MER.jpg">
+<h2><a href= "Documentos do projeto/Dicionário de Dados.pdf">Dicionário de dados</a></h2>
+<h2><a href= "Documentos do projeto/script_ddl.sql">Script de criação de tabelas do banco de dados</a></h2>
+<h1 href="Sistema/">Código fonte do projeto</h1>
