@@ -10,7 +10,9 @@
   Ademário ​ ​José.
   Pedro ​ ​Gabriel.
 </P>
-![Screen Shot](https://octodex.github.com/images/yaktocat.png)
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 
 
