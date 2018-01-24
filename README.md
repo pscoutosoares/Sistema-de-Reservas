@@ -1,10 +1,10 @@
 <h1> Sistema de Reservas</h1>
 <h2>Equipe:</h2>
 <p>
+  Ademário ​ ​José.<br>
   Alvanir ​ ​Junior.<br>
   Carlos ​ ​Augusto.<br>
   Emmanuel ​ ​Diego.<br>
-  Ademário ​ ​José.<br>
   Pedro ​ ​Gabriel.<br>
 </P>
 
@@ -61,4 +61,4 @@ data,​ ​hora ​ ​e ​ ​a ​ ​pessoa ​ ​que ​ ​a ​ ​efet
 <img src="DB/MER.jpg">
 <h2><a href= "DB/Dicion%C3%A1rio%20de%20Dados.pdf">Dicionário de dados</a></h2>
 <h2><a href= "DB/script_ddl.sql">Script de criação de tabelas do banco de dados</a></h2>
-<h1 href="Sistema/">Código fonte do projeto</h1>
+<h1><a href="Sistema/">Código fonte do projeto</a></h1>
