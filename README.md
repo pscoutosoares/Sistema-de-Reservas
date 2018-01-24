@@ -24,7 +24,8 @@ necessidade ​ ​apenas ​ ​de ​ ​um ​ ​simples ​ ​cadastro ​
 um ​ ​histórico ​ ​sobre ​ ​últimos ​ ​acesso ​ ​aos ​ ​equipamentos ​ ​que ​ ​foram ​ ​reservados, ​ ​com
 isso ​ ​apresentando ​ ​um ​ ​controle ​ ​ainda ​ ​maior ​ ​na ​ ​manutenção ​ ​dos ​ ​mesmo ​ ​e ​ ​uma
 relação ​ ​de ​ ​segura.
-3 ​. ​ ​Requisitos ​ ​do ​ ​Sistema:
+<br>
+<h2>​. ​ ​Requisitos ​ ​do ​ ​Sistema:</h2>
 1. O ​ ​Sistema ​ ​deve ​ ​exibir​ ​as ​ ​agendas ​ ​das ​ ​salas ​ ​na ​ ​forma ​ ​de ​ ​quadros
 semanais,​ ​com ​ ​possibilidade ​ ​de ​ ​navegação​ ​por​ ​estes.
 2. O ​ ​Sistema ​ ​deve ​ ​possibilitar​ ​a ​ ​exibição​ ​de ​ ​maiores ​ ​informações ​ ​sobre ​ ​uma
