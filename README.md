@@ -28,17 +28,24 @@ relação ​ ​de ​ ​segura.
 <h2>​. ​ ​Requisitos ​ ​do ​ ​Sistema:</h2>
 1. O ​ ​Sistema ​ ​deve ​ ​exibir​ ​as ​ ​agendas ​ ​das ​ ​salas ​ ​na ​ ​forma ​ ​de ​ ​quadros
 semanais,​ ​com ​ ​possibilidade ​ ​de ​ ​navegação​ ​por​ ​estes.
+<br>
 2. O ​ ​Sistema ​ ​deve ​ ​possibilitar​ ​a ​ ​exibição​ ​de ​ ​maiores ​ ​informações ​ ​sobre ​ ​uma
 reserva ​ ​a ​ ​qualquer​ ​momento.
+<br>
 3. O ​ ​Sistema ​ ​deve ​ ​exibir​ ​as ​ ​reservas ​ ​classificadas ​ ​em ​ ​tipos,​ ​a ​ ​saber: ​ ​Aula,
-Palestra,​ ​Conselho,​ ​Comissão,​ ​Seminário,​ ​Reunião,​ ​Monitoria,​ ​Outros.4. O ​ ​Sistema ​ ​deve ​ ​oferecer​ ​dois ​ ​tipos ​ ​de ​ ​reservas: ​ ​eventuais ​ ​e ​ ​fixas
+Palestra,​ ​Conselho,​ ​Comissão,​ ​Seminário,​ ​Reunião,​ ​Monitoria,​ ​Outros.
+<br>
+4. O ​ ​Sistema ​ ​deve ​ ​oferecer​ ​dois ​ ​tipos ​ ​de ​ ​reservas: ​ ​eventuais ​ ​e ​ ​fixas
 semanalmente.​ ​As ​ ​reservas ​ ​eventuais ​ ​terão​ ​vigência ​ ​somente ​ ​na ​ ​data ​ ​e
 horário​ ​em ​ ​que ​ ​foram ​ ​marcadas,​ ​e ​ ​as ​ ​fixas ​ ​serão​ ​ligadas ​ ​a ​ ​um ​ ​dia ​ ​da
 semana ​ ​e ​ ​horário,​ ​e ​ ​se ​ ​repetirão​ ​semanalmente.
+<br>
 5. O ​ ​Sistema ​ ​deve ​ ​permitir​ ​que ​ ​os ​ ​usuários ​ ​com ​ ​permissão​ ​de ​ ​agendamento
 comum ​ ​sobre ​ ​as ​ ​equipamentos ​ ​possam ​ ​incluir,​ ​excluir​ ​e ​ ​modificar
 reservas ​ ​eventuais.
+<br>
 6. O ​ ​Sistema ​ ​deve ​ ​permitir​ ​que ​ ​sejam ​ ​feitas ​ ​buscas ​ ​por​ ​equipamentos ​ ​com
 horários ​ ​livres ​ ​para ​ ​reservas ​ ​eventuais.
+<br>
 7. O ​ ​Sistema ​ ​deve ​ ​registrar,​ ​no​ ​momento​ ​do​ ​agendamento​ ​de ​ ​uma ​ ​reserva,​ ​a
 data,​ ​hora ​ ​e ​ ​a ​ ​pessoa ​ ​que ​ ​a ​ ​efetuou.
