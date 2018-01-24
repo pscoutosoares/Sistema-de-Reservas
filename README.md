@@ -50,5 +50,4 @@ horários ​ ​livres ​ ​para ​ ​reservas ​ ​eventuais.
 7. O ​ ​Sistema ​ ​deve ​ ​registrar,​ ​no​ ​momento​ ​do​ ​agendamento​ ​de ​ ​uma ​ ​reserva,​ ​a
 data,​ ​hora ​ ​e ​ ​a ​ ​pessoa ​ ​que ​ ​a ​ ​efetuou.
 <object data="Documentos do projeto/Documento-de-visao.pdf" type="application/pdf" width="700px" height="700px">
-<embed src="Documentos do projeto/Documento-de-visao.pdf"></embed>
 </object>
