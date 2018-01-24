@@ -49,5 +49,6 @@ horários ​ ​livres ​ ​para ​ ​reservas ​ ​eventuais.
 <br>
 7. O ​ ​Sistema ​ ​deve ​ ​registrar,​ ​no​ ​momento​ ​do​ ​agendamento​ ​de ​ ​uma ​ ​reserva,​ ​a
 data,​ ​hora ​ ​e ​ ​a ​ ​pessoa ​ ​que ​ ​a ​ ​efetuou.
-
-<img src="https://github.com/pscoutosoares/Top-Gerenciamentos/blob/master/Documentos%20do%20projeto/Manual%20do%20Usu%C3%A1rio%20Final.pdf">
+<object data="Documentos do projeto/Documento-de-visao.pdf" type="application/pdf" width="700px" height="700px">
+<embed src="Documentos do projeto/Documento-de-visao.pdf"></embed>
+</object>
